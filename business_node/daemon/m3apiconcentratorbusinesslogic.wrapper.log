@@ -1,0 +1,4 @@
+2023-02-06 11:08:14 - Starting E:\Infor\m3ExpressGateway\NodeJS\node.exe  --harmony --max_old_space_size=4096 E:\Infor\business_node\node_modules\node-windows\lib\wrapper.js --file E:\Infor\business_node\proxy.js --scriptoptions= --log "M3 API concentrator - Business Logic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-02-06 11:08:14 - Started 5972
+2023-02-06 19:13:13 - Starting E:\Infor\m3ExpressGateway\NodeJS\node.exe  --harmony --max_old_space_size=4096 E:\Infor\business_node\node_modules\node-windows\lib\wrapper.js --file E:\Infor\business_node\proxy.js --scriptoptions= --log "M3 API concentrator - Business Logic wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2023-02-06 19:13:14 - Started 5836

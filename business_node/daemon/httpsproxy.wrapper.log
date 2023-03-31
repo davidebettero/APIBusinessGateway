@@ -1,0 +1,8 @@
+2022-11-29 16:48:06 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\alessio.porta\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\alessio.porta\Documents\Clienti\Vitec\Fedex\fedexProxy\proxy_https.js --scriptoptions= --log "Https proxy wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-11-29 16:48:06 - Started 11516
+2022-11-30 09:08:50 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\alessio.porta\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\alessio.porta\Documents\Clienti\Vitec\Fedex\fedexProxy\proxy_https.js --scriptoptions= --log "Https proxy wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-11-30 09:08:50 - Started 6660
+2022-11-30 14:04:05 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\alessio.porta\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\alessio.porta\Documents\Clienti\Vitec\Fedex\fedexProxy\proxy_https.js --scriptoptions= --log "Https proxy wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-11-30 14:04:05 - Started 6476
+2022-12-01 10:47:12 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Users\alessio.porta\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\alessio.porta\Documents\Clienti\Vitec\Fedex\fedexProxy\proxy_https.js --scriptoptions= --log "Https proxy wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-12-01 10:47:12 - Started 3912

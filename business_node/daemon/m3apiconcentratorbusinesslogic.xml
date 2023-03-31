@@ -1,0 +1,32 @@
+<service>
+	<id>m3apiconcentratorbusinesslogic.exe</id>
+	<name>M3 API concentrator - Business Logic</name>
+	<description>M3 rest api - D.Guastalli</description>
+	<executable>E:\Infor\m3ExpressGateway\NodeJS\node.exe</executable>
+	<argument>--harmony</argument>
+	<argument>--max_old_space_size=4096</argument>
+	<argument>E:\Infor\business_node\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>E:\Infor\business_node\proxy.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>M3 API concentrator - Business Logic wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<serviceaccount>
+		<domain>V-BNCLSP-TST</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>E:\Infor\business_node</workingdirectory>
+</service>
