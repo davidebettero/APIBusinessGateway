@@ -1,6 +1,6 @@
 {
   "name": "M3 API concentrator - Business Logic",
-  "description": "M3 rest api - D.Guastalli",
+  "description": "M3 rest api - D. Bettero",
   "script": "E:\\Infor\\business_node\\proxy.js",
   "nodeOptions": ["--harmony", "--max_old_space_size=4096"]
 }
